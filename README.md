@@ -1,2 +1,2 @@
-# discovery-server
+# eureka-discovery-server
 Spring Cloud Eureka Netflix discovery server
